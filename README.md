@@ -4,4 +4,4 @@
 - *IFC - Campus Araquari*
 
 ## Subitítulo
-> *Aqui vai uma cituação*
+> "Aqui vai uma citação"
