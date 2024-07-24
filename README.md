@@ -3,5 +3,5 @@
 - Autor: [Giovana Rosa](https://github.com/giovana-rosa)
 - *IFC - Campus Araquari*
 
-## Subitítulo
+## Subtítulo
 > "Aqui vai uma citação"
